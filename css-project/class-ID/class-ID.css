@@ -1,0 +1,20 @@
+/* styles.css */
+.main {
+    background-color: rgb(249, 53, 53);
+    font-family: 'Verdana', sans-serif;
+}
+.main-cool {
+    background-color: rgb(249, 53, 53);
+    font-family: 'Verdana', sans-serif;
+    font-size: 24px;
+}
+#main {
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
+#main-green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+/* styles.css */
+.para, .small-para {
+    color: red;
+    
+}
+.para {
+    font-size: 32px;
+}    
+.small-para {
+    
+    font-size: 18px;
+}
+.green-para {
+    color: green;
+    font-size: 32px;
+}
+.button {
+    background-color: white;
+    color: black;
+    font-size: 32px;
+}
+.comfirm-button {
+    background-color: green;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
